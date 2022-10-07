@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "name": "The Matrix 3",
+      "rating": "8.1",
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "id": 1
+    },
+    {
+      "name": "The Matrix Reloaded",
+      "rating": "6.9",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBegA6V243J6HUnpcOILsRvBnGb.jpg",
+      "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance. Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition.",
+      "id": 2
+    },
+    {
+      "name": "Saw 3D",
+      "rating": "7.5",
+      "overview": "SAW legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpg",
+      "id": 3
+    },
+    {
+      "name": "Project Power",
+      "rating": "4.0",
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg",
+      "id": 5
+    },
+    {
+      "name": "The Smile",
+      "rating": "7.9",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hiaeZKzwsk4y4atFhmncO5KRxeT.jpg",
+      "overview": "Bir hastayı içeren tuhaf, travmatik bir olaya tanık olan Dr. Rose Cotter, açıklayamadığı korkutucu olaylar yaşamaya başlar. Bu karşı konulmaz derecede bunaltıcı olan dehşet hayatını ele geçirmeye başlarken, Rose hayatta kalmak ve korkunç yeni gerçekliğinden kaçmak için sıkıntılı geçmişiyle yüzleşmek zorundadır.",
+      "id": 6
+    },
+    {
+      "name": "Breaking Bad",
+      "rating": "8.8",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+      "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir. (18 yaş ve üzeri için uygundur)",
+      "id": 7
+    }
+  ]
+}
